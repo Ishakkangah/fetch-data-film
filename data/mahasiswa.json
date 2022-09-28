@@ -1,0 +1,30 @@
+[
+   {
+      "id": 1,
+      "nama": "Ishakk angah",
+      "jurusan": "Manajement Informatika",
+      "semester": "Akhir",
+      "email": "ishakkangah@gmil.com"
+   },
+   {
+      "id": 2,
+      "nama": "Thomas Matullessy",
+      "jurusan": "Manajement Informatika",
+      "semester": "Akhir",
+      "email": "Thomasmat@gmil.com"
+   },
+   {
+      "id": 3,
+      "nama": "Pangeran Antasary",
+      "jurusan": "Manajement Informatika",
+      "semester": "Akhir",
+      "email": "Pangeran@gmil.com"
+   },
+   {
+      "id": 4,
+      "nama": "Pangeran Dipenegoro",
+      "jurusan": "Manajement Informatika",
+      "semester": "Akhir",
+      "email": "Dipenegoro@gmil.com"
+   }
+]
