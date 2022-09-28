@@ -9,13 +9,13 @@ btn.addEventListener("click", async function () {
 
 
 // get data
-async function getData(){
-    const keyword = 'avatar';
-    const movies = await getMovie(keyword);
-    updateUi(movies);
-}
+// async function getData(){
+//     const keyword = 'avatar';
+//     const movies = await getMovie(keyword);
+//     updateUi(movies);
+// }
 
-getData();
+// getData();
 
 function getMovie(keyword) {
   return fetch("http://www.omdbapi.com/?apikey=cd7d1b88&s=" + keyword)
